@@ -1,0 +1,12 @@
+# Archivos generados por el programa al correrlo
+Sample.wav
+SequencedSample.txt
+DataSample.txt
+SequencedSong*.txt
+DataSong*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
