@@ -1,14 +1,8 @@
 # 🎵 Shazam – Reconocimiento de Audio en Python
 
-**Análisis de métodos matemáticos para la física · F1009.4**
+**Análisis de métodos matemáticos para la física**
+Diego Alejandro Flores Meza
 
-| Integrante | Matrícula |
-|---|---|
-| Alejandro Medrano Torres | A00831829 |
-| Emilio Tehuintle Ramírez | — |
-| Mauricio Antonio Castillón Tello | — |
-| Diego Alejandro Flores Meza | — |
-| Pablo Gabriel Galeana Benítez | — |
 
 ---
 
